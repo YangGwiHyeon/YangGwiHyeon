@@ -1,6 +1,6 @@
-[![JS](https://img.shields.io/badge/Swift-F7DF1E?style=flat-square&logo=Swift&logoColor=black)](github.com/Joowon0220/TODO-List)
+// [![JS](https://img.shields.io/badge/Swift-F7DF1E?style=flat-square&logo=Swift&logoColor=black)](github.com/Joowon0220/TODO-List)
 
-
+### Hi there 👋
 <!--
 **YangGwiHyeon/YangGwiHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
